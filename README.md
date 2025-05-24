@@ -21,9 +21,6 @@ Jigsaw_project_final/
 ├── denoiser.py
 ├── jigsaw_model_gray_noise.pth
 ├── jigsaw-puzzle-solver.ipynb
-├── output_colorized.png
-├── reconstructed.png
-│
 ├── dataset/
 │   ├── test/
 │   └── train/
@@ -96,5 +93,5 @@ Use [`colorization.ipynb`](colorization.ipynb) to colorize grayscale images:
 
 ---
 
-**Author:** [Your Name]  
-**License:** MIT (or specify your license)
+**Author:** [Ali Shirzad]  
+
