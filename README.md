@@ -75,12 +75,13 @@ Use [`colorization.ipynb`](colorization.ipynb) to colorize grayscale images:
     ```python
     colorize_and_save('results/denoiser/Image_1313_reconstructed_denoised.png', 'output_colorized.png')
     ```
-
 #### 4. Models
 
 - Pretrained models are stored as `.pth` files (e.g., `jigsaw_model_gray_noise.pth`).
 - Place your trained models in the `models/` directory for easy loading.
-
+#### 5. Dataset 
+- The dataset used is called "Butter Flies Images Dataset" on kaggle.
+- https://www.kaggle.com/datasets/meetnagadia/butterflies-dataset
 ## Results
 
 - Denoised and colorized images are saved in the `results/` and `output_colorized.png`.
