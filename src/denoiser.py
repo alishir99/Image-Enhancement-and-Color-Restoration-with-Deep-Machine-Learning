@@ -101,7 +101,7 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     dataset = NoisyGrayDataset(root_data_dir, noise_std=noise_std)
-    # Use all data; change fraction if you want a subset
+   
     fraction = 1
     num_samples = int(len(dataset) * fraction)
     indices = np.random.choice(len(dataset), num_samples, replace=False)
