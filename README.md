@@ -1,4 +1,4 @@
-# Deep-Image-Denoising-and-Colorization
+# Image Enhancement and Color Restoration with Deep Machine Learning
 ## Jigsaw Puzzle Solver & Image Colorization
 
 This repository contains code and models for solving jigsaw puzzles, denoising reconstructed images, and colorizing grayscale images using deep learning. The project is organized for easy experimentation and reproducibility.
